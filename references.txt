@@ -1,0 +1,9 @@
+References
+
+This are some sources which use to make a minimalistic code
+
+1)"Creating RESTful Web APIs using Flask and Python":-"https://towardsdatascience.com/creating-restful-apis-using-flask-and-python-655bad51b24" 
+2)"A Minimal Application":-"https://flask.palletsprojects.com/en/2.0.x/quickstart/"
+3)"Falcon vs. Flask — Which one to pick to create a scalable deep learning REST API":-"https://medium.com/idealo-tech-blog/falcon-vs-flask-which-one-to-pick-to-create-a-scalable-deep-learning-rest-api-adef647ebdec"
+4)"Flask SQLAlchemy":-"https://flask-sqlalchemy.palletsprojects.com/en/2.x/"
+5)"DB Model JSON serialization with PUT, POST write for Flask applications using SQLAlchemy":-"https://pypi.org/project/flask-serialize/"
